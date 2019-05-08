@@ -5,6 +5,6 @@ an animated sample of how this library works
 
 ![Math-Expression-Evaluator](https://github.com/amirrastifarsad/Math-Expression-Evaluator/blob/master/images/Math-Expression-Evaluator.gif "sample")
 
-#   the Proteus schematic of this project
+### the Proteus schematic of this project
 
 ![Math-Expression-Evaluator](https://github.com/amirrastifarsad/Math-Expression-Evaluator/blob/master/images/Proteus.PNG "Proteus schematic")
